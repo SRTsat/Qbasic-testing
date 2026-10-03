@@ -1,0 +1,14 @@
+cara pake qbasic di vscode
+yang perlu di punya:
+- vscode versi apa aja
+- aplikasi buat extract file apa aja winrar ato 7zip bebas
+
+1. Pertama download qbasic64 ini buat qbasic kalo gw di sini --> https://qb64.com/
+2. extract qbasic nya terus di buka hasil extract nya
+3. file yang namanya qb64 di cut terus pindahin ke C:
+4. buka vcode terus download extension namanya qbasicnexus
+5. selesai download terus ke logo pojok kiri yang gear terus ke setting
+6. ke bagian extension terus pilih yang qbasicnexus
+7. terus liat yang qbasic compiler path dan pencet edit in setting.json
+8. di bagian qbasic-nexus.compilerPath pasti kosong nah di dalem "" di isi dengan ini C:\\QB64\\qb64.exe terus save
+9. selesai kalo mau buat kode nya tinggal pake .bas aja
