@@ -7,7 +7,7 @@ INPUT "Jumlah beli   : ", jumlah
 
 total = harga * jumlah
 
-
+CLS
 PRINT "Barang          : "; nama$
 PRINT "Harga satuan    : Rp "; harga
 PRINT "Jumlah beli     : "; jumlah
